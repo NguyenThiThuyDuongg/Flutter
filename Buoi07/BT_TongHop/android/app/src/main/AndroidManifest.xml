@@ -9,7 +9,7 @@
         <!-- API Key của Google Maps -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyBAM0DgEvVEt3a8PebbVJ-rzOghV9yaLAI" />
+            android:value="AIzaSyD5N8khzZqyaIGA-w0iUZtA5OTRDrGiVu0" />
 
         <activity
             android:name=".MainActivity"
